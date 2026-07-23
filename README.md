@@ -47,6 +47,9 @@ An intelligent, fast, and secure contract analysis system designed for high-volu
 
 ![image alt](https://github.com/afafnoorula-droid/Intelligent-Contract-Analyzer-Summarizer/blob/0b9e738a26e3b2e602e6fe83679ea5546a2be8c9/Screenshot%20(913).png)
 
+![image alt](https://github.com/afafnoorula-droid/Intelligent-Contract-Analyzer-Summarizer/blob/b39e4d89cddb39e961eb8dd4c5c10e66e44c7a1d/Screenshot%20(914).png)
+
+
 
 
 ### **Quick Setup**
